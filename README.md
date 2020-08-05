@@ -1,2 +1,9 @@
 # index-frunk-4-leap-motion-and-more
-repo for design assets for (work in progess; incomplete) for index frunk adapter.
+Repo for design assets for (work in progess; incomplete) valve index frunk adapter for the leapmotion, stereolabs zed-mini and a usb hub.
+
+  
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Creative Commons BY-SA-NC
+
+![cc-by-sa-nc](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
